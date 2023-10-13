@@ -7,7 +7,6 @@ class square():
 
     side = 0
 
-    
     def __init__(self, *args, **kwargs):
         """This is the initializer"""
         for key, value in kwargs.items():
@@ -24,6 +23,7 @@ class square():
     def __str__(self):
         """The string representation of the the squre"""
         return "{}/{}".format(self.side, self.side)
+
 
 if __name__ == "__main__":
 
