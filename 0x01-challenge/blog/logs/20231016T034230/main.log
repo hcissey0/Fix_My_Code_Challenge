@@ -1,0 +1,6 @@
+2023-10-16 03:42:31.154 [info] update#setState idle
+2023-10-16 03:43:01.161 [info] update#setState checking for updates
+2023-10-16 03:43:01.180 [info] update#setState available for download
+2023-10-16 03:43:28.340 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-16 03:44:23.961 [info] Extension host with pid 218347 exited with code: 0, signal: unknown.
+2023-10-16 03:44:29.559 [info] Extension host with pid 219823 exited with code: 0, signal: unknown.
